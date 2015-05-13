@@ -1,6 +1,8 @@
+
 <?php
-//BARIS 1
 //tambah baris diedit oleh K3513025
+//BARIS 1
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
